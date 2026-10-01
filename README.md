@@ -14,6 +14,8 @@ The project uses a synthetic procurement dataset covering 2022–2025 and demons
 - **SQL Server Management Studio (SSMS)** — SQL development and database management
 - **Power BI** — Data modeling, DAX measures, interactive analysis, and dashboard development
 - **Power Query** — Data preparation and data-type validation
+- **Git** — Version control and project change tracking
+- **GitHub** — Repository hosting, project documentation, and portfolio publishing
 
 ## Project Objectives
 
