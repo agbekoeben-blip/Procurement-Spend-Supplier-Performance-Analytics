@@ -173,8 +173,18 @@ Based on the analysis, the following areas may warrant management attention:
 Procurement-Spend-Supplier-Performance-Analytics/
 │
 ├── README.md
+├── .gitignore
 │
 ├── data/
+│   ├── README.md
+│   ├── budgets.csv
+│   ├── contracts.csv
+│   ├── departments.csv
+│   ├── invoices.csv
+│   ├── products.csv
+│   ├── purchase_order_items.csv
+│   ├── purchase_orders.csv
+│   └── suppliers.csv
 │
 ├── powerbi/
 │   └── Procurement_Spend_Supplier_Performance_Analytics.pbix
