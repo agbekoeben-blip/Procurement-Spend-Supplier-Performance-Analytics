@@ -1,0 +1,264 @@
+ContractID,SupplierID,Category,ContractType,StartDate,EndDate,ContractValueUSD,NegotiatedDiscountPct,AutoRenewal,ContractStatus
+CTR00001,SUP0001,Fuel,Time & Materials,2024-04-01,2025-06-29,4649365.43,2.34,Yes,Expired
+CTR00002,SUP0001,Mobile Devices,Framework Agreement,2023-07-12,2024-11-30,268497.2,7.79,Yes,Expired
+CTR00003,SUP0002,Utilities,Framework Agreement,2023-12-28,2026-07-11,4492368.95,10.48,Yes,Active
+CTR00004,SUP0002,Transportation Services,Purchase Agreement,2023-07-26,2026-05-23,671488.84,7.29,No,Active
+CTR00005,SUP0003,Training Services,Fixed Price,2023-06-21,2025-12-22,400011.32,3.87,Yes,Expired
+CTR00006,SUP0003,Construction Services,Time & Materials,2023-10-02,2026-01-30,1918308.91,13.53,No,Active
+CTR00007,SUP0003,Travel Services,Framework Agreement,2022-02-02,2024-08-19,1537904.96,8.43,No,Expired
+CTR00008,SUP0004,Construction Services,Fixed Price,2024-03-07,2027-02-06,1334597.1,14.11,No,Active
+CTR00009,SUP0004,Fleet Services,Framework Agreement,2023-07-01,2025-08-13,1877361.19,5.75,Yes,Expired
+CTR00010,SUP0004,Sustainability Services,Fixed Price,2023-01-22,2025-01-18,4466867.96,10.19,No,Expired
+CTR00011,SUP0005,Office Supplies,Time & Materials,2021-11-15,2024-07-08,1192319.08,11.32,No,Expired
+CTR00012,SUP0005,Printing Services,Time & Materials,2022-01-02,2024-09-23,1632489.17,13.46,No,Expired
+CTR00013,SUP0006,Transportation Services,Time & Materials,2021-08-05,2024-04-14,4967219.6,7.46,No,Expired
+CTR00014,SUP0007,Electrical Components,Framework Agreement,2024-03-09,2027-01-15,2123523.17,9.35,Yes,Active
+CTR00015,SUP0008,Catering Services,Time & Materials,2024-03-11,2025-12-24,1418409.84,8.39,No,Expired
+CTR00016,SUP0008,Warehouse Equipment,Fixed Price,2023-02-15,2024-04-06,2980398.47,8.07,No,Expired
+CTR00017,SUP0009,Waste Management,Fixed Price,2022-09-28,2024-09-06,3014495.86,8.51,No,Expired
+CTR00018,SUP0011,Computers & Laptops,Time & Materials,2021-12-15,2023-04-06,3017741.69,5.71,Yes,Expired
+CTR00019,SUP0011,Training Services,Purchase Agreement,2023-08-06,2025-12-08,1461842.12,8.64,No,Expired
+CTR00020,SUP0011,Waste Management,Framework Agreement,2021-03-19,2023-12-19,4937986.76,13.37,No,Expired
+CTR00021,SUP0011,Office Supplies,Fixed Price,2022-11-25,2023-12-18,2118183.95,13.32,No,Expired
+CTR00022,SUP0012,Fuel,Purchase Agreement,2023-07-22,2026-03-06,3620402.42,8.09,Yes,Active
+CTR00023,SUP0013,Office Supplies,Framework Agreement,2023-10-21,2026-09-30,1424468.72,5.25,No,Active
+CTR00024,SUP0013,Consulting Services,Framework Agreement,2024-05-12,2025-10-24,2640098.0,14.88,No,Expired
+CTR00025,SUP0014,Material Handling,Time & Materials,2023-05-03,2025-02-25,1047705.41,11.63,Yes,Expired
+CTR00026,SUP0014,Cleaning Services,Framework Agreement,2021-07-23,2023-05-06,4491298.73,2.04,No,Expired
+CTR00027,SUP0014,Maintenance Services,Framework Agreement,2021-02-13,2022-10-15,1542214.65,7.98,No,Expired
+CTR00028,SUP0015,Security Services,Time & Materials,2024-06-18,2025-08-25,4260940.92,4.27,No,Expired
+CTR00029,SUP0015,Office Supplies,Fixed Price,2022-08-29,2025-03-23,1229796.29,4.43,Yes,Expired
+CTR00030,SUP0016,Warehouse Equipment,Fixed Price,2024-02-01,2025-11-23,4381000.4,11.08,No,Expired
+CTR00031,SUP0016,Professional Services,Framework Agreement,2023-10-16,2025-08-30,4615770.91,3.31,Yes,Expired
+CTR00032,SUP0016,Mobile Devices,Time & Materials,2023-04-14,2025-06-19,2365010.96,10.78,No,Expired
+CTR00033,SUP0016,Sustainability Services,Framework Agreement,2024-04-21,2025-11-14,4047684.88,13.54,No,Expired
+CTR00034,SUP0016,Legal Services,Framework Agreement,2021-07-26,2023-10-09,3330834.76,8.68,Yes,Expired
+CTR00035,SUP0017,Professional Services,Fixed Price,2021-05-12,2022-07-18,1919201.54,4.82,No,Expired
+CTR00036,SUP0017,Insurance,Time & Materials,2023-03-26,2025-08-28,4691049.63,7.01,Yes,Expired
+CTR00037,SUP0018,Laboratory Equipment,Fixed Price,2023-12-18,2025-02-14,3227138.81,6.59,No,Expired
+CTR00038,SUP0018,Travel Services,Fixed Price,2023-01-11,2024-09-13,2589198.86,2.8,Yes,Expired
+CTR00039,SUP0018,Facilities Management,Framework Agreement,2024-06-28,2026-01-16,1811704.58,11.5,Yes,Active
+CTR00040,SUP0019,Data Storage,Fixed Price,2024-01-21,2025-06-20,439745.71,2.37,Yes,Expired
+CTR00041,SUP0019,Utilities,Framework Agreement,2023-06-05,2025-12-16,2314369.83,14.0,No,Expired
+CTR00042,SUP0020,Mechanical Components,Time & Materials,2024-06-06,2027-04-15,2459759.24,4.86,No,Active
+CTR00043,SUP0020,Recruitment Services,Time & Materials,2023-08-02,2024-11-03,2393272.65,8.02,No,Expired
+CTR00044,SUP0020,Quality Testing Services,Framework Agreement,2021-10-11,2023-06-26,3336680.26,5.52,Yes,Expired
+CTR00045,SUP0021,Laboratory Equipment,Framework Agreement,2022-07-14,2025-01-18,1244779.59,9.64,Yes,Expired
+CTR00046,SUP0021,Personal Protective Equipment,Fixed Price,2021-11-10,2023-01-04,2038229.81,6.94,No,Expired
+CTR00047,SUP0021,Cleaning Services,Fixed Price,2023-09-08,2025-07-04,3850672.0,14.21,No,Expired
+CTR00048,SUP0022,Telecommunications,Framework Agreement,2022-08-08,2025-07-24,2745095.03,6.13,No,Expired
+CTR00049,SUP0022,Printing Services,Purchase Agreement,2022-06-14,2025-02-13,2199597.0,9.24,Yes,Expired
+CTR00050,SUP0023,Sustainability Services,Framework Agreement,2023-03-05,2025-12-14,346240.36,5.24,Yes,Expired
+CTR00051,SUP0024,Cleaning Services,Fixed Price,2022-11-07,2024-12-03,1018879.46,3.22,No,Expired
+CTR00052,SUP0024,Security Services,Purchase Agreement,2021-01-02,2022-12-11,1303660.69,2.31,Yes,Expired
+CTR00053,SUP0024,Facilities Management,Fixed Price,2022-12-02,2025-05-01,946097.43,14.76,No,Expired
+CTR00054,SUP0025,Cybersecurity Tools,Fixed Price,2024-06-14,2026-12-01,4878879.24,4.65,No,Active
+CTR00055,SUP0026,Software Licenses,Framework Agreement,2022-05-06,2024-03-20,958831.71,14.96,No,Expired
+CTR00056,SUP0027,Quality Testing Services,Framework Agreement,2022-06-05,2025-04-09,2947104.08,11.16,No,Expired
+CTR00057,SUP0027,Maintenance Services,Framework Agreement,2021-07-14,2023-11-18,2417174.71,4.01,No,Expired
+CTR00058,SUP0027,Mobile Devices,Framework Agreement,2024-01-26,2025-02-19,3617094.87,14.99,Yes,Expired
+CTR00059,SUP0028,Construction Services,Fixed Price,2023-02-11,2024-03-25,3051502.42,10.89,No,Expired
+CTR00060,SUP0029,Warehouse Equipment,Fixed Price,2023-01-08,2024-06-07,2924893.83,13.46,No,Expired
+CTR00061,SUP0029,Cybersecurity Tools,Framework Agreement,2023-08-01,2025-03-23,657959.49,5.18,No,Expired
+CTR00062,SUP0030,Networking Equipment,Time & Materials,2021-06-10,2023-02-02,4042166.36,14.45,Yes,Expired
+CTR00063,SUP0030,Advertising,Fixed Price,2021-04-30,2023-11-18,952747.84,13.87,No,Expired
+CTR00064,SUP0030,Laboratory Equipment,Purchase Agreement,2023-05-30,2024-09-20,306093.17,5.22,No,Expired
+CTR00065,SUP0030,Cybersecurity Tools,Framework Agreement,2023-04-18,2026-03-26,728617.23,9.7,No,Active
+CTR00066,SUP0030,Safety Equipment,Framework Agreement,2022-03-09,2023-10-29,1596461.36,9.46,No,Expired
+CTR00067,SUP0031,Cybersecurity Tools,Time & Materials,2021-11-20,2023-02-21,4670322.79,8.57,No,Expired
+CTR00068,SUP0032,Medical Supplies,Framework Agreement,2023-11-26,2025-06-16,722670.8,9.88,Yes,Expired
+CTR00069,SUP0032,Marketing Services,Fixed Price,2022-09-28,2023-11-11,2857216.05,4.08,No,Expired
+CTR00070,SUP0032,Insurance,Fixed Price,2024-03-31,2026-11-21,1720331.66,9.14,No,Active
+CTR00071,SUP0032,Catering Services,Framework Agreement,2023-11-20,2026-03-12,1247913.84,14.73,No,Active
+CTR00072,SUP0033,Construction Services,Framework Agreement,2022-05-22,2024-12-08,3052429.81,3.44,No,Expired
+CTR00073,SUP0033,Fuel,Fixed Price,2021-11-26,2023-06-28,4474183.79,11.91,Yes,Expired
+CTR00074,SUP0033,Insurance,Framework Agreement,2024-01-25,2026-06-26,4753701.5,3.19,Yes,Active
+CTR00075,SUP0033,Software Licenses,Fixed Price,2022-05-24,2024-03-06,3776080.11,8.17,No,Expired
+CTR00076,SUP0034,Business Intelligence,Framework Agreement,2021-01-06,2023-03-22,2045446.2,12.27,Yes,Expired
+CTR00077,SUP0034,Marketing Services,Fixed Price,2022-05-04,2023-10-19,4930481.67,11.18,Yes,Expired
+CTR00078,SUP0034,Safety Equipment,Purchase Agreement,2022-01-21,2023-06-04,3268821.14,6.94,No,Expired
+CTR00079,SUP0035,Business Intelligence,Purchase Agreement,2021-09-26,2024-09-08,2439658.92,10.35,Yes,Expired
+CTR00080,SUP0035,Material Handling,Time & Materials,2021-09-21,2024-06-30,713337.36,10.43,No,Expired
+CTR00081,SUP0036,Travel Services,Purchase Agreement,2021-12-11,2023-05-28,2349030.1,5.18,No,Expired
+CTR00082,SUP0036,Packaging Materials,Time & Materials,2023-02-03,2024-03-25,2196080.11,4.37,No,Expired
+CTR00083,SUP0036,Sustainability Services,Time & Materials,2022-07-24,2024-03-11,4829065.09,12.6,No,Expired
+CTR00084,SUP0036,Telecommunications,Fixed Price,2021-01-21,2022-01-29,1853076.11,9.94,Yes,Expired
+CTR00085,SUP0036,Marketing Services,Time & Materials,2024-03-03,2025-08-24,791059.46,10.57,No,Expired
+CTR00086,SUP0037,Recruitment Services,Time & Materials,2021-09-20,2023-08-25,2847363.94,13.95,No,Expired
+CTR00087,SUP0037,Software Licenses,Framework Agreement,2022-08-03,2023-12-11,4831760.72,8.05,Yes,Expired
+CTR00088,SUP0038,Mechanical Components,Fixed Price,2021-10-10,2023-03-01,4807051.54,11.89,No,Expired
+CTR00089,SUP0038,Cloud Services,Purchase Agreement,2023-01-11,2024-09-09,3320528.43,4.43,No,Expired
+CTR00090,SUP0038,Office Furniture,Fixed Price,2023-05-20,2024-11-21,3628023.29,10.53,No,Expired
+CTR00091,SUP0038,Legal Services,Framework Agreement,2021-07-13,2022-11-06,3448309.46,5.52,Yes,Expired
+CTR00092,SUP0038,Facilities Management,Framework Agreement,2024-03-18,2025-11-15,1823442.54,7.9,Yes,Expired
+CTR00093,SUP0040,Printing Services,Purchase Agreement,2023-03-09,2025-07-24,4733748.85,7.55,Yes,Expired
+CTR00094,SUP0040,Cybersecurity Tools,Time & Materials,2023-06-03,2024-07-03,3676502.17,11.89,Yes,Expired
+CTR00095,SUP0041,Medical Supplies,Purchase Agreement,2021-02-19,2022-11-21,1690853.76,4.25,Yes,Expired
+CTR00096,SUP0042,Mobile Devices,Framework Agreement,2021-02-13,2023-08-04,3630656.32,13.16,Yes,Expired
+CTR00097,SUP0042,Material Handling,Framework Agreement,2021-07-30,2023-10-10,1930828.54,3.61,No,Expired
+CTR00098,SUP0043,Recruitment Services,Purchase Agreement,2023-12-25,2025-02-03,4601124.71,6.06,No,Expired
+CTR00099,SUP0044,Office Supplies,Purchase Agreement,2021-03-27,2022-08-11,614033.64,9.85,No,Expired
+CTR00100,SUP0044,Training Services,Framework Agreement,2021-08-11,2024-01-12,4926778.95,10.81,No,Expired
+CTR00101,SUP0044,Fleet Services,Purchase Agreement,2023-08-01,2025-04-23,270727.2,8.59,Yes,Expired
+CTR00102,SUP0044,Sustainability Services,Framework Agreement,2023-11-07,2025-10-31,1075440.22,2.75,No,Expired
+CTR00103,SUP0044,Uniforms,Framework Agreement,2021-07-06,2024-03-28,930669.49,5.75,Yes,Expired
+CTR00104,SUP0046,Insurance,Framework Agreement,2021-10-04,2024-01-20,2093254.35,9.22,Yes,Expired
+CTR00105,SUP0046,Fleet Services,Purchase Agreement,2022-12-28,2025-11-08,3867161.8,14.0,No,Expired
+CTR00106,SUP0047,Personal Protective Equipment,Framework Agreement,2021-10-26,2022-12-10,770064.8,3.24,No,Expired
+CTR00107,SUP0047,Laboratory Equipment,Time & Materials,2024-05-24,2026-12-22,3053513.05,3.9,No,Active
+CTR00108,SUP0047,Security Services,Framework Agreement,2023-02-20,2024-02-29,1582795.95,6.3,No,Expired
+CTR00109,SUP0048,Courier Services,Fixed Price,2022-01-04,2024-05-26,910274.12,12.5,Yes,Expired
+CTR00110,SUP0049,Cloud Services,Framework Agreement,2021-08-03,2023-06-20,782585.03,8.74,Yes,Expired
+CTR00111,SUP0049,Safety Equipment,Framework Agreement,2021-01-20,2022-04-26,4782014.33,5.7,No,Expired
+CTR00112,SUP0050,Consulting Services,Time & Materials,2021-06-18,2022-09-09,2892037.65,6.49,No,Expired
+CTR00113,SUP0050,Laboratory Equipment,Framework Agreement,2022-01-21,2024-01-01,4863955.36,9.19,No,Expired
+CTR00114,SUP0050,Catering Services,Framework Agreement,2023-05-12,2024-06-07,4069005.51,3.32,No,Expired
+CTR00115,SUP0050,Packaging Materials,Framework Agreement,2021-09-06,2022-10-07,626755.27,11.05,No,Expired
+CTR00116,SUP0051,Professional Services,Purchase Agreement,2021-08-30,2024-08-14,4769825.42,3.82,No,Expired
+CTR00117,SUP0051,Recruitment Services,Time & Materials,2023-09-02,2025-01-05,3622150.3,11.15,No,Expired
+CTR00118,SUP0051,Data Storage,Fixed Price,2023-03-31,2025-01-28,1788178.26,3.37,Yes,Expired
+CTR00119,SUP0052,Cybersecurity Tools,Framework Agreement,2021-09-01,2024-05-05,3235263.99,7.47,No,Expired
+CTR00120,SUP0052,Safety Equipment,Fixed Price,2023-03-27,2025-02-27,3672180.98,9.53,No,Expired
+CTR00121,SUP0052,Business Intelligence,Fixed Price,2022-03-27,2023-04-03,3842397.55,8.46,Yes,Expired
+CTR00122,SUP0054,Laboratory Equipment,Fixed Price,2023-07-07,2025-03-08,543956.02,2.33,Yes,Expired
+CTR00123,SUP0054,Advertising,Fixed Price,2021-03-02,2022-05-25,4700306.07,9.1,Yes,Expired
+CTR00124,SUP0054,Networking Equipment,Framework Agreement,2024-04-06,2026-03-26,3752937.11,3.32,No,Active
+CTR00125,SUP0054,Software Licenses,Time & Materials,2021-03-23,2022-11-16,2311669.17,11.2,No,Expired
+CTR00126,SUP0054,Electrical Components,Fixed Price,2021-01-16,2022-06-11,2180885.47,13.03,Yes,Expired
+CTR00127,SUP0055,Warehouse Equipment,Purchase Agreement,2022-07-30,2024-04-23,1918911.0,8.82,Yes,Expired
+CTR00128,SUP0055,Laboratory Equipment,Framework Agreement,2024-02-27,2026-03-13,1865660.03,12.68,Yes,Active
+CTR00129,SUP0055,Fleet Services,Fixed Price,2023-06-12,2025-06-13,3441466.03,12.34,No,Expired
+CTR00130,SUP0055,Professional Services,Framework Agreement,2022-02-25,2023-12-09,406121.43,3.51,No,Expired
+CTR00131,SUP0055,Legal Services,Fixed Price,2021-09-13,2023-09-10,1942508.05,9.29,No,Expired
+CTR00132,SUP0056,Facilities Management,Fixed Price,2024-01-06,2025-08-25,1894518.66,9.61,No,Expired
+CTR00133,SUP0058,Medical Supplies,Time & Materials,2022-04-21,2024-03-08,4490353.87,2.47,Yes,Expired
+CTR00134,SUP0058,Leasing Services,Purchase Agreement,2022-04-10,2024-04-14,2265598.04,2.13,No,Expired
+CTR00135,SUP0058,Security Services,Purchase Agreement,2022-01-15,2024-12-12,1612033.53,13.26,No,Expired
+CTR00136,SUP0058,Construction Services,Purchase Agreement,2022-10-23,2024-03-19,3504925.3,9.14,No,Expired
+CTR00137,SUP0059,Courier Services,Framework Agreement,2024-01-28,2025-05-08,3568509.45,14.66,No,Expired
+CTR00138,SUP0060,Training Services,Fixed Price,2023-06-03,2025-05-17,576930.22,12.85,No,Expired
+CTR00139,SUP0060,Insurance,Framework Agreement,2023-04-08,2024-05-13,4109411.9,8.71,No,Expired
+CTR00140,SUP0060,Temporary Labor,Fixed Price,2024-01-27,2026-07-08,3379519.21,3.74,Yes,Active
+CTR00141,SUP0060,Medical Supplies,Time & Materials,2021-05-09,2023-04-19,1352382.19,10.06,Yes,Expired
+CTR00142,SUP0061,Data Storage,Framework Agreement,2023-12-22,2025-07-16,1875778.1,10.57,Yes,Expired
+CTR00143,SUP0062,Temporary Labor,Framework Agreement,2023-11-16,2026-04-30,2898593.31,14.8,Yes,Active
+CTR00144,SUP0062,Telecommunications,Framework Agreement,2022-12-20,2024-04-08,1811731.59,6.19,No,Expired
+CTR00145,SUP0062,Raw Materials,Framework Agreement,2022-12-19,2024-08-05,1142328.1,2.53,No,Expired
+CTR00146,SUP0062,Cloud Services,Framework Agreement,2021-12-04,2023-03-22,3475602.5,11.84,No,Expired
+CTR00147,SUP0062,Training Services,Framework Agreement,2022-03-06,2023-04-02,2906400.59,2.01,No,Expired
+CTR00148,SUP0063,Cloud Services,Fixed Price,2021-09-12,2024-07-02,347104.17,12.29,No,Expired
+CTR00149,SUP0063,Leasing Services,Time & Materials,2022-03-22,2023-03-26,1618946.68,11.77,No,Expired
+CTR00150,SUP0063,Data Storage,Fixed Price,2022-05-13,2023-12-19,1724222.31,14.57,No,Expired
+CTR00151,SUP0064,Cybersecurity Tools,Purchase Agreement,2022-12-07,2025-04-23,4176895.87,13.82,No,Expired
+CTR00152,SUP0064,Travel Services,Fixed Price,2022-07-07,2024-01-30,3599890.28,12.9,No,Expired
+CTR00153,SUP0064,Networking Equipment,Framework Agreement,2022-07-19,2023-12-11,3462870.44,11.7,No,Expired
+CTR00154,SUP0065,Utilities,Time & Materials,2023-02-19,2024-11-14,4127696.09,11.32,No,Expired
+CTR00155,SUP0065,Personal Protective Equipment,Framework Agreement,2021-06-14,2023-04-14,2216631.02,9.42,No,Expired
+CTR00156,SUP0065,Packaging Materials,Time & Materials,2023-12-27,2026-12-03,2943769.49,8.46,No,Active
+CTR00157,SUP0065,Leasing Services,Purchase Agreement,2023-07-07,2025-06-10,4805598.36,11.19,No,Expired
+CTR00158,SUP0066,Construction Services,Time & Materials,2023-08-23,2026-06-22,1067810.65,9.06,No,Active
+CTR00159,SUP0066,Office Supplies,Fixed Price,2023-02-18,2025-05-08,770865.52,6.95,No,Expired
+CTR00160,SUP0067,Packaging Materials,Framework Agreement,2022-04-29,2024-12-31,2550825.23,2.63,No,Expired
+CTR00161,SUP0067,Leasing Services,Framework Agreement,2021-01-05,2022-05-05,3599348.24,12.34,No,Expired
+CTR00162,SUP0067,Insurance,Fixed Price,2023-11-04,2025-02-23,1692017.6,13.55,No,Expired
+CTR00163,SUP0068,Travel Services,Time & Materials,2022-06-23,2024-06-07,4988827.84,3.49,No,Expired
+CTR00164,SUP0068,Marketing Services,Framework Agreement,2023-04-06,2025-05-14,1884176.55,8.75,No,Expired
+CTR00165,SUP0068,Data Storage,Fixed Price,2024-04-14,2026-04-13,4647750.35,10.09,No,Active
+CTR00166,SUP0069,Office Supplies,Fixed Price,2022-01-10,2024-12-21,4107905.12,13.19,No,Expired
+CTR00167,SUP0069,Transportation Services,Framework Agreement,2021-10-14,2023-05-26,3869253.85,3.83,No,Expired
+CTR00168,SUP0069,Fleet Services,Framework Agreement,2021-12-27,2023-08-19,2088331.3,12.66,No,Expired
+CTR00169,SUP0070,Utilities,Time & Materials,2021-02-27,2023-09-09,4012110.4,7.22,No,Expired
+CTR00170,SUP0071,Travel Services,Framework Agreement,2022-09-11,2025-03-09,1639824.3,12.45,No,Expired
+CTR00171,SUP0071,Catering Services,Time & Materials,2023-09-23,2025-08-31,460887.16,14.97,No,Expired
+CTR00172,SUP0071,Software Licenses,Framework Agreement,2021-04-21,2022-12-04,2332002.47,5.73,No,Expired
+CTR00173,SUP0072,Office Furniture,Fixed Price,2021-11-12,2023-05-11,1195044.38,4.94,No,Expired
+CTR00174,SUP0072,Quality Testing Services,Fixed Price,2022-10-23,2025-01-14,4478725.18,9.83,No,Expired
+CTR00175,SUP0072,Cloud Services,Fixed Price,2022-03-27,2023-07-21,1772774.3,14.54,Yes,Expired
+CTR00176,SUP0072,Software Licenses,Fixed Price,2023-07-20,2025-06-13,4218686.93,10.69,No,Expired
+CTR00177,SUP0072,Training Services,Framework Agreement,2021-09-22,2024-01-26,3302966.22,4.47,No,Expired
+CTR00178,SUP0073,Transportation Services,Time & Materials,2022-01-25,2023-03-11,4155104.55,4.82,No,Expired
+CTR00179,SUP0073,Waste Management,Framework Agreement,2023-04-05,2024-10-23,393497.25,12.61,Yes,Expired
+CTR00180,SUP0073,Professional Services,Framework Agreement,2023-05-08,2025-11-10,1912705.31,7.06,No,Expired
+CTR00181,SUP0074,Maintenance Services,Framework Agreement,2021-09-17,2024-03-27,643947.06,4.06,No,Expired
+CTR00182,SUP0074,Personal Protective Equipment,Purchase Agreement,2022-02-10,2024-03-07,1260204.86,13.81,No,Expired
+CTR00183,SUP0074,Fuel,Framework Agreement,2021-03-15,2022-12-26,2244100.17,4.75,No,Expired
+CTR00184,SUP0074,Construction Services,Framework Agreement,2021-11-04,2023-01-21,1959680.21,9.94,No,Expired
+CTR00185,SUP0075,Construction Services,Time & Materials,2022-02-16,2024-12-23,1571270.85,2.69,Yes,Expired
+CTR00186,SUP0075,Legal Services,Framework Agreement,2022-12-31,2025-12-24,2563466.09,4.4,No,Expired
+CTR00187,SUP0075,Material Handling,Framework Agreement,2022-06-28,2024-03-24,3171894.05,6.96,No,Expired
+CTR00188,SUP0076,Mechanical Components,Purchase Agreement,2022-01-18,2024-03-26,367694.91,7.59,Yes,Expired
+CTR00189,SUP0076,Stationery,Framework Agreement,2021-03-02,2023-01-04,3500452.64,2.79,No,Expired
+CTR00190,SUP0076,Leasing Services,Time & Materials,2023-01-04,2024-06-28,2335416.78,11.54,No,Expired
+CTR00191,SUP0076,Sustainability Services,Time & Materials,2023-05-06,2026-04-05,3833215.08,13.08,No,Active
+CTR00192,SUP0076,Mobile Devices,Fixed Price,2024-06-21,2026-04-17,4689745.33,8.18,No,Active
+CTR00193,SUP0077,Cloud Services,Purchase Agreement,2024-05-13,2026-07-31,3620692.67,11.84,No,Active
+CTR00194,SUP0077,Consulting Services,Purchase Agreement,2021-11-14,2023-10-07,3000977.63,4.17,Yes,Expired
+CTR00195,SUP0077,Business Intelligence,Framework Agreement,2023-01-03,2024-12-15,4030026.27,7.74,Yes,Expired
+CTR00196,SUP0077,Mobile Devices,Time & Materials,2023-07-15,2024-08-02,2676093.31,3.17,Yes,Expired
+CTR00197,SUP0077,Office Supplies,Framework Agreement,2023-12-30,2026-09-19,1720465.98,4.6,No,Active
+CTR00198,SUP0078,Office Furniture,Purchase Agreement,2021-12-01,2023-06-25,4657277.53,4.15,No,Expired
+CTR00199,SUP0078,Cloud Services,Time & Materials,2021-12-22,2023-10-13,1431279.31,2.76,No,Expired
+CTR00200,SUP0078,Safety Equipment,Purchase Agreement,2021-04-23,2022-10-02,3394735.62,10.2,No,Expired
+CTR00201,SUP0078,Maintenance Services,Fixed Price,2022-03-07,2023-12-24,4134625.65,12.3,No,Expired
+CTR00202,SUP0078,Data Storage,Framework Agreement,2023-05-20,2025-08-14,3850600.14,14.5,No,Expired
+CTR00203,SUP0079,Software Licenses,Purchase Agreement,2024-04-06,2026-02-05,2742853.14,14.06,Yes,Active
+CTR00204,SUP0081,Uniforms,Framework Agreement,2023-06-11,2024-06-19,1792660.49,2.3,No,Expired
+CTR00205,SUP0081,Facilities Management,Framework Agreement,2021-10-10,2023-01-04,3332331.2,12.12,Yes,Expired
+CTR00206,SUP0082,Packaging Materials,Fixed Price,2021-08-16,2023-03-03,997876.14,10.66,No,Expired
+CTR00207,SUP0082,Maintenance Services,Fixed Price,2021-01-26,2022-07-31,2946841.55,3.79,Yes,Expired
+CTR00208,SUP0082,Sustainability Services,Framework Agreement,2023-10-17,2026-03-26,2103728.49,7.56,No,Active
+CTR00209,SUP0082,Raw Materials,Fixed Price,2022-07-05,2025-02-09,3900455.71,10.16,Yes,Expired
+CTR00210,SUP0083,Advertising,Fixed Price,2022-01-01,2023-07-17,1807249.68,14.16,No,Expired
+CTR00211,SUP0083,Packaging Materials,Framework Agreement,2022-06-25,2024-09-20,2215276.04,8.11,No,Expired
+CTR00212,SUP0083,Stationery,Framework Agreement,2023-06-29,2025-11-11,439724.14,12.34,No,Expired
+CTR00213,SUP0084,Cybersecurity Tools,Framework Agreement,2022-04-23,2024-10-09,3600884.32,5.07,No,Expired
+CTR00214,SUP0084,Courier Services,Fixed Price,2022-10-09,2024-04-28,1992029.72,7.08,Yes,Expired
+CTR00215,SUP0084,Facilities Management,Framework Agreement,2022-04-30,2024-12-07,2328297.69,11.18,No,Expired
+CTR00216,SUP0084,Raw Materials,Purchase Agreement,2023-11-01,2024-11-20,3460572.46,6.47,No,Expired
+CTR00217,SUP0084,Telecommunications,Fixed Price,2021-12-22,2024-02-07,1472590.98,10.06,No,Expired
+CTR00218,SUP0085,Quality Testing Services,Framework Agreement,2021-09-22,2022-09-23,4776411.76,2.26,No,Expired
+CTR00219,SUP0085,Security Services,Purchase Agreement,2022-10-30,2025-08-28,3636209.88,8.03,Yes,Expired
+CTR00220,SUP0085,Medical Supplies,Framework Agreement,2023-01-09,2025-12-30,4284609.87,14.08,Yes,Expired
+CTR00221,SUP0085,Travel Services,Purchase Agreement,2023-12-13,2026-04-10,2700332.33,8.8,No,Active
+CTR00222,SUP0085,Marketing Services,Framework Agreement,2023-08-07,2025-03-21,2150316.14,3.74,Yes,Expired
+CTR00223,SUP0086,Insurance,Purchase Agreement,2021-05-14,2023-02-11,3425347.88,12.57,No,Expired
+CTR00224,SUP0086,Cleaning Services,Time & Materials,2023-06-04,2026-01-23,2678703.28,8.17,No,Active
+CTR00225,SUP0086,Sustainability Services,Fixed Price,2022-12-06,2024-09-20,1698328.89,8.74,No,Expired
+CTR00226,SUP0087,Professional Services,Fixed Price,2021-12-14,2024-10-18,1234928.33,9.28,No,Expired
+CTR00227,SUP0087,Networking Equipment,Fixed Price,2021-05-07,2022-08-16,4572201.57,8.91,No,Expired
+CTR00228,SUP0087,Facilities Management,Framework Agreement,2023-06-18,2024-07-13,2611180.64,5.43,No,Expired
+CTR00229,SUP0087,Medical Supplies,Framework Agreement,2022-06-01,2024-05-29,692786.51,2.95,Yes,Expired
+CTR00230,SUP0088,Temporary Labor,Time & Materials,2021-09-30,2024-07-05,1246363.14,3.18,Yes,Expired
+CTR00231,SUP0088,Analytics Services,Time & Materials,2021-05-26,2023-04-01,4805375.32,14.28,Yes,Expired
+CTR00232,SUP0089,Mechanical Components,Framework Agreement,2021-09-15,2024-09-07,4747852.09,3.38,No,Expired
+CTR00233,SUP0090,Safety Equipment,Framework Agreement,2024-04-05,2025-12-13,679204.66,8.47,No,Expired
+CTR00234,SUP0090,Stationery,Fixed Price,2021-03-30,2022-07-12,4780786.98,3.88,Yes,Expired
+CTR00235,SUP0090,Material Handling,Framework Agreement,2023-01-09,2024-03-04,1210965.94,2.71,No,Expired
+CTR00236,SUP0091,Training Services,Fixed Price,2021-10-27,2022-11-02,591215.63,4.86,No,Expired
+CTR00237,SUP0091,Legal Services,Framework Agreement,2022-04-21,2024-03-30,4903202.99,7.5,No,Expired
+CTR00238,SUP0091,Cybersecurity Tools,Fixed Price,2024-06-26,2025-07-01,317101.23,3.24,No,Expired
+CTR00239,SUP0091,Stationery,Time & Materials,2021-10-31,2023-02-04,3651474.86,6.64,Yes,Expired
+CTR00240,SUP0091,Safety Equipment,Framework Agreement,2021-08-19,2023-03-27,1124661.28,8.44,Yes,Expired
+CTR00241,SUP0092,Temporary Labor,Fixed Price,2021-08-09,2022-12-25,454265.44,9.35,Yes,Expired
+CTR00242,SUP0092,Professional Services,Framework Agreement,2024-04-02,2026-11-16,666754.47,11.38,Yes,Active
+CTR00243,SUP0092,Leasing Services,Purchase Agreement,2022-08-02,2024-06-01,4536257.12,12.35,No,Expired
+CTR00244,SUP0093,Consulting Services,Fixed Price,2022-09-05,2024-12-21,2676666.46,6.62,No,Expired
+CTR00245,SUP0093,Packaging Materials,Time & Materials,2024-03-01,2026-10-15,2115445.72,6.07,No,Active
+CTR00246,SUP0094,Construction Services,Purchase Agreement,2023-11-16,2026-08-31,3829127.68,3.76,No,Active
+CTR00247,SUP0095,Insurance,Fixed Price,2021-12-05,2023-08-07,3658217.78,14.34,No,Expired
+CTR00248,SUP0095,Consulting Services,Framework Agreement,2022-04-14,2024-04-06,4183923.72,13.05,No,Expired
+CTR00249,SUP0095,Uniforms,Time & Materials,2022-07-27,2023-10-21,4050370.83,14.57,Yes,Expired
+CTR00250,SUP0096,Waste Management,Purchase Agreement,2021-06-01,2022-09-08,1586247.08,11.04,Yes,Expired
+CTR00251,SUP0096,Electrical Components,Framework Agreement,2023-10-05,2026-04-19,3323814.24,7.46,Yes,Active
+CTR00252,SUP0097,Marketing Services,Framework Agreement,2023-04-10,2025-02-21,992145.89,7.86,Yes,Expired
+CTR00253,SUP0097,Electrical Components,Purchase Agreement,2023-01-03,2024-08-04,1720847.14,9.02,No,Expired
+CTR00254,SUP0098,Material Handling,Time & Materials,2023-05-08,2024-09-14,729518.2,11.94,Yes,Expired
+CTR00255,SUP0098,Quality Testing Services,Fixed Price,2021-07-13,2022-12-20,1785234.63,9.68,No,Expired
+CTR00256,SUP0098,Marketing Services,Fixed Price,2022-10-18,2025-08-09,1651440.67,10.56,No,Expired
+CTR00257,SUP0099,Fleet Services,Fixed Price,2024-05-13,2026-10-15,3707400.14,13.9,No,Active
+CTR00258,SUP0099,Cybersecurity Tools,Time & Materials,2023-03-01,2025-10-26,3911348.84,8.5,Yes,Expired
+CTR00259,SUP0100,Electrical Components,Purchase Agreement,2022-12-02,2025-07-07,4463435.35,7.01,Yes,Expired
+CTR00260,SUP0100,Fuel,Purchase Agreement,2021-02-22,2023-03-08,2526548.57,12.38,No,Expired
+CTR00261,SUP0100,Packaging Materials,Fixed Price,2023-09-25,2025-12-26,2280288.66,8.63,Yes,Expired
+CTR00262,SUP0100,Maintenance Services,Time & Materials,2021-06-09,2023-06-11,4315861.3,11.22,No,Expired
+CTR00263,SUP0100,Computers & Laptops,Fixed Price,2021-01-01,2023-01-22,409046.95,6.98,Yes,Expired

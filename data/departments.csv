@@ -1,0 +1,26 @@
+DepartmentID,DepartmentName,CostCenter,Manager,AnnualBudgetUSD,Region
+DPT001,Information Technology,CC-1001,Manager 01,9626538.51,North America
+DPT002,Operations,CC-1002,Manager 02,10515278.16,Europe
+DPT003,Finance,CC-1003,Manager 03,2488862.15,Latin America
+DPT004,Human Resources,CC-1004,Manager 04,9491966.87,Asia Pacific
+DPT005,Marketing,CC-1005,Manager 05,2845193.14,North America
+DPT006,Sales,CC-1006,Manager 06,5393379.25,Africa
+DPT007,Facilities,CC-1007,Manager 07,8260583.76,Asia Pacific
+DPT008,Legal,CC-1008,Manager 08,6155849.09,North America
+DPT009,Research & Development,CC-1009,Manager 09,7323140.26,North America
+DPT010,Customer Service,CC-1010,Manager 10,10190127.31,Europe
+DPT011,Logistics,CC-1011,Manager 11,9459921.27,North America
+DPT012,Warehousing,CC-1012,Manager 12,11692329.26,Africa
+DPT013,Procurement,CC-1013,Manager 13,9673026.72,North America
+DPT014,Quality Assurance,CC-1014,Manager 14,6400570.54,North America
+DPT015,Security,CC-1015,Manager 15,3120039.67,Europe
+DPT016,Corporate Strategy,CC-1016,Manager 16,9320002.64,Latin America
+DPT017,Administration,CC-1017,Manager 17,4921166.26,North America
+DPT018,Training & Development,CC-1018,Manager 18,6430336.02,North America
+DPT019,Engineering,CC-1019,Manager 19,2864175.81,North America
+DPT020,Manufacturing,CC-1020,Manager 20,3882548.17,Europe
+DPT021,Maintenance,CC-1021,Manager 21,6090095.15,Asia Pacific
+DPT022,Sustainability,CC-1022,Manager 22,8852783.57,North America
+DPT023,Compliance,CC-1023,Manager 23,10238727.91,Asia Pacific
+DPT024,Retail Operations,CC-1024,Manager 24,5568522.98,North America
+DPT025,Executive Office,CC-1025,Manager 25,8666202.79,North America

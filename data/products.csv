@@ -1,0 +1,301 @@
+ProductID,ProductName,Category,Subcategory,StandardUnitPriceUSD,UnitOfMeasure,Criticality
+PRD0001,Computers & Laptops Item 1,Computers & Laptops,Computers & Laptops - Group 1,1503.67,Month,Medium
+PRD0002,Networking Equipment Item 1,Networking Equipment,Networking Equipment - Group 2,1116.47,Box,Medium
+PRD0003,Software Licenses Item 1,Software Licenses,Software Licenses - Group 3,484.68,Each,Low
+PRD0004,Cloud Services Item 1,Cloud Services,Cloud Services - Group 1,1047.67,Month,Low
+PRD0005,Cybersecurity Tools Item 1,Cybersecurity Tools,Cybersecurity Tools - Group 2,776.95,Hour,Low
+PRD0006,Office Furniture Item 1,Office Furniture,Office Furniture - Group 3,892.37,Box,Medium
+PRD0007,Office Supplies Item 1,Office Supplies,Office Supplies - Group 1,36.5,Each,Medium
+PRD0008,Printing Services Item 1,Printing Services,Printing Services - Group 2,169.89,Each,High
+PRD0009,Telecommunications Item 1,Telecommunications,Telecommunications - Group 3,264.01,Month,High
+PRD0010,Professional Services Item 1,Professional Services,Professional Services - Group 1,1769.89,Each,Low
+PRD0011,Consulting Services Item 1,Consulting Services,Consulting Services - Group 2,3746.89,Each,Low
+PRD0012,Legal Services Item 1,Legal Services,Legal Services - Group 3,2195.74,Each,Low
+PRD0013,Marketing Services Item 1,Marketing Services,Marketing Services - Group 1,1239.12,Each,Medium
+PRD0014,Advertising Item 1,Advertising,Advertising - Group 2,4830.92,Lot,Low
+PRD0015,Travel Services Item 1,Travel Services,Travel Services - Group 3,856.51,Each,Low
+PRD0016,Training Services Item 1,Training Services,Training Services - Group 1,966.61,Month,Medium
+PRD0017,Recruitment Services Item 1,Recruitment Services,Recruitment Services - Group 2,1216.91,Month,High
+PRD0018,Insurance Item 1,Insurance,Insurance - Group 3,3239.07,Pack,Medium
+PRD0019,Facilities Management Item 1,Facilities Management,Facilities Management - Group 1,3498.03,Pack,Low
+PRD0020,Cleaning Services Item 1,Cleaning Services,Cleaning Services - Group 2,1268.71,Each,Low
+PRD0021,Security Services Item 1,Security Services,Security Services - Group 3,1707.43,Each,Medium
+PRD0022,Utilities Item 1,Utilities,Utilities - Group 1,1425.14,Each,Medium
+PRD0023,Fleet Services Item 1,Fleet Services,Fleet Services - Group 2,1765.11,Hour,Low
+PRD0024,Fuel Item 1,Fuel,Fuel - Group 3,320.21,Each,Medium
+PRD0025,Warehouse Equipment Item 1,Warehouse Equipment,Warehouse Equipment - Group 1,9857.91,Month,Medium
+PRD0026,Material Handling Item 1,Material Handling,Material Handling - Group 2,1682.81,Each,Low
+PRD0027,Packaging Materials Item 1,Packaging Materials,Packaging Materials - Group 3,164.83,Each,Medium
+PRD0028,Transportation Services Item 1,Transportation Services,Transportation Services - Group 1,1061.47,Each,High
+PRD0029,Courier Services Item 1,Courier Services,Courier Services - Group 2,202.66,Hour,High
+PRD0030,Raw Materials Item 1,Raw Materials,Raw Materials - Group 3,463.57,Month,High
+PRD0031,Electrical Components Item 1,Electrical Components,Electrical Components - Group 1,298.88,Month,Low
+PRD0032,Mechanical Components Item 1,Mechanical Components,Mechanical Components - Group 2,390.17,Month,High
+PRD0033,Safety Equipment Item 1,Safety Equipment,Safety Equipment - Group 3,171.88,Hour,Medium
+PRD0034,Personal Protective Equipment Item 1,Personal Protective Equipment,Personal Protective Equipment - Group 1,90.94,Box,Low
+PRD0035,Laboratory Equipment Item 1,Laboratory Equipment,Laboratory Equipment - Group 2,7766.96,Each,High
+PRD0036,Quality Testing Services Item 1,Quality Testing Services,Quality Testing Services - Group 3,1116.59,Hour,High
+PRD0037,Maintenance Services Item 1,Maintenance Services,Maintenance Services - Group 1,1712.46,Each,High
+PRD0038,Construction Services Item 1,Construction Services,Construction Services - Group 2,10674.91,Each,Low
+PRD0039,Catering Services Item 1,Catering Services,Catering Services - Group 3,647.6,Pack,Medium
+PRD0040,Uniforms Item 1,Uniforms,Uniforms - Group 1,103.15,Month,Low
+PRD0041,Medical Supplies Item 1,Medical Supplies,Medical Supplies - Group 2,125.87,Each,Medium
+PRD0042,Stationery Item 1,Stationery,Stationery - Group 3,22.58,Each,Low
+PRD0043,Mobile Devices Item 1,Mobile Devices,Mobile Devices - Group 1,569.2,Pack,Low
+PRD0044,Data Storage Item 1,Data Storage,Data Storage - Group 2,1573.33,Each,High
+PRD0045,Business Intelligence Item 1,Business Intelligence,Business Intelligence - Group 3,1304.75,Box,Medium
+PRD0046,Analytics Services Item 1,Analytics Services,Analytics Services - Group 1,1663.72,Hour,Low
+PRD0047,Sustainability Services Item 1,Sustainability Services,Sustainability Services - Group 2,1373.38,Each,Medium
+PRD0048,Waste Management Item 1,Waste Management,Waste Management - Group 3,1124.0,Each,Medium
+PRD0049,Leasing Services Item 1,Leasing Services,Leasing Services - Group 1,2078.1,Each,High
+PRD0050,Temporary Labor Item 1,Temporary Labor,Temporary Labor - Group 2,816.22,Month,Medium
+PRD0051,Computers & Laptops Item 2,Computers & Laptops,Computers & Laptops - Group 3,1424.69,Month,Medium
+PRD0052,Networking Equipment Item 2,Networking Equipment,Networking Equipment - Group 1,1127.03,Lot,High
+PRD0053,Software Licenses Item 2,Software Licenses,Software Licenses - Group 2,1031.11,Pack,High
+PRD0054,Cloud Services Item 2,Cloud Services,Cloud Services - Group 3,694.34,Each,High
+PRD0055,Cybersecurity Tools Item 2,Cybersecurity Tools,Cybersecurity Tools - Group 1,759.57,Box,High
+PRD0056,Office Furniture Item 2,Office Furniture,Office Furniture - Group 2,437.28,Month,Medium
+PRD0057,Office Supplies Item 2,Office Supplies,Office Supplies - Group 3,28.67,Each,Medium
+PRD0058,Printing Services Item 2,Printing Services,Printing Services - Group 1,163.03,Pack,High
+PRD0059,Telecommunications Item 2,Telecommunications,Telecommunications - Group 2,284.78,Lot,High
+PRD0060,Professional Services Item 2,Professional Services,Professional Services - Group 3,1223.78,Each,Medium
+PRD0061,Consulting Services Item 2,Consulting Services,Consulting Services - Group 1,1788.88,Month,Low
+PRD0062,Legal Services Item 2,Legal Services,Legal Services - Group 2,4305.83,Box,Low
+PRD0063,Marketing Services Item 2,Marketing Services,Marketing Services - Group 3,1243.28,Each,Medium
+PRD0064,Advertising Item 2,Advertising,Advertising - Group 1,1871.98,Pack,Low
+PRD0065,Travel Services Item 2,Travel Services,Travel Services - Group 2,685.9,Lot,Medium
+PRD0066,Training Services Item 2,Training Services,Training Services - Group 3,973.29,Each,Medium
+PRD0067,Recruitment Services Item 2,Recruitment Services,Recruitment Services - Group 1,1813.45,Each,High
+PRD0068,Insurance Item 2,Insurance,Insurance - Group 2,5404.81,Month,Medium
+PRD0069,Facilities Management Item 2,Facilities Management,Facilities Management - Group 3,4486.28,Each,Medium
+PRD0070,Cleaning Services Item 2,Cleaning Services,Cleaning Services - Group 1,917.3,Lot,Low
+PRD0071,Security Services Item 2,Security Services,Security Services - Group 2,1239.03,Each,Medium
+PRD0072,Utilities Item 2,Utilities,Utilities - Group 3,1834.96,Box,Medium
+PRD0073,Fleet Services Item 2,Fleet Services,Fleet Services - Group 1,1958.85,Each,Medium
+PRD0074,Fuel Item 2,Fuel,Fuel - Group 2,395.71,Each,High
+PRD0075,Warehouse Equipment Item 2,Warehouse Equipment,Warehouse Equipment - Group 3,8598.75,Each,High
+PRD0076,Material Handling Item 2,Material Handling,Material Handling - Group 1,1588.17,Hour,Medium
+PRD0077,Packaging Materials Item 2,Packaging Materials,Packaging Materials - Group 2,94.95,Lot,Medium
+PRD0078,Transportation Services Item 2,Transportation Services,Transportation Services - Group 3,1653.13,Each,Low
+PRD0079,Courier Services Item 2,Courier Services,Courier Services - Group 1,225.08,Lot,Medium
+PRD0080,Raw Materials Item 2,Raw Materials,Raw Materials - Group 2,503.28,Each,Medium
+PRD0081,Electrical Components Item 2,Electrical Components,Electrical Components - Group 3,354.3,Each,Low
+PRD0082,Mechanical Components Item 2,Mechanical Components,Mechanical Components - Group 1,228.72,Box,Medium
+PRD0083,Safety Equipment Item 2,Safety Equipment,Safety Equipment - Group 2,183.07,Hour,Medium
+PRD0084,Personal Protective Equipment Item 2,Personal Protective Equipment,Personal Protective Equipment - Group 3,89.42,Each,Medium
+PRD0085,Laboratory Equipment Item 2,Laboratory Equipment,Laboratory Equipment - Group 1,5033.59,Each,Low
+PRD0086,Quality Testing Services Item 2,Quality Testing Services,Quality Testing Services - Group 2,716.19,Box,Low
+PRD0087,Maintenance Services Item 2,Maintenance Services,Maintenance Services - Group 3,964.92,Month,High
+PRD0088,Construction Services Item 2,Construction Services,Construction Services - Group 1,6105.21,Month,Medium
+PRD0089,Catering Services Item 2,Catering Services,Catering Services - Group 2,294.12,Month,Medium
+PRD0090,Uniforms Item 2,Uniforms,Uniforms - Group 3,93.21,Lot,Medium
+PRD0091,Medical Supplies Item 2,Medical Supplies,Medical Supplies - Group 1,353.07,Each,Medium
+PRD0092,Stationery Item 2,Stationery,Stationery - Group 2,17.97,Hour,Low
+PRD0093,Mobile Devices Item 2,Mobile Devices,Mobile Devices - Group 3,839.81,Each,Low
+PRD0094,Data Storage Item 2,Data Storage,Data Storage - Group 1,897.52,Box,Medium
+PRD0095,Business Intelligence Item 2,Business Intelligence,Business Intelligence - Group 2,2512.06,Each,Medium
+PRD0096,Analytics Services Item 2,Analytics Services,Analytics Services - Group 3,2186.34,Pack,High
+PRD0097,Sustainability Services Item 2,Sustainability Services,Sustainability Services - Group 1,2228.92,Box,High
+PRD0098,Waste Management Item 2,Waste Management,Waste Management - Group 2,965.93,Each,Medium
+PRD0099,Leasing Services Item 2,Leasing Services,Leasing Services - Group 3,1924.33,Lot,Medium
+PRD0100,Temporary Labor Item 2,Temporary Labor,Temporary Labor - Group 1,1346.72,Lot,High
+PRD0101,Computers & Laptops Item 3,Computers & Laptops,Computers & Laptops - Group 2,1442.72,Month,Medium
+PRD0102,Networking Equipment Item 3,Networking Equipment,Networking Equipment - Group 3,679.82,Box,High
+PRD0103,Software Licenses Item 3,Software Licenses,Software Licenses - Group 1,517.73,Lot,Low
+PRD0104,Cloud Services Item 3,Cloud Services,Cloud Services - Group 2,986.25,Hour,Medium
+PRD0105,Cybersecurity Tools Item 3,Cybersecurity Tools,Cybersecurity Tools - Group 3,1066.89,Each,Low
+PRD0106,Office Furniture Item 3,Office Furniture,Office Furniture - Group 1,313.41,Each,High
+PRD0107,Office Supplies Item 3,Office Supplies,Office Supplies - Group 2,59.8,Each,Medium
+PRD0108,Printing Services Item 3,Printing Services,Printing Services - Group 3,130.14,Pack,Medium
+PRD0109,Telecommunications Item 3,Telecommunications,Telecommunications - Group 1,269.89,Each,Low
+PRD0110,Professional Services Item 3,Professional Services,Professional Services - Group 2,2291.36,Each,Medium
+PRD0111,Consulting Services Item 3,Consulting Services,Consulting Services - Group 3,1823.46,Each,Low
+PRD0112,Legal Services Item 3,Legal Services,Legal Services - Group 1,3924.73,Month,Low
+PRD0113,Marketing Services Item 3,Marketing Services,Marketing Services - Group 2,1792.06,Lot,High
+PRD0114,Advertising Item 3,Advertising,Advertising - Group 3,2436.41,Pack,Medium
+PRD0115,Travel Services Item 3,Travel Services,Travel Services - Group 1,867.97,Lot,Low
+PRD0116,Training Services Item 3,Training Services,Training Services - Group 2,425.68,Box,Medium
+PRD0117,Recruitment Services Item 3,Recruitment Services,Recruitment Services - Group 3,1102.08,Each,High
+PRD0118,Insurance Item 3,Insurance,Insurance - Group 1,2581.9,Hour,Medium
+PRD0119,Facilities Management Item 3,Facilities Management,Facilities Management - Group 2,2319.81,Pack,High
+PRD0120,Cleaning Services Item 3,Cleaning Services,Cleaning Services - Group 3,1024.35,Each,Low
+PRD0121,Security Services Item 3,Security Services,Security Services - Group 1,1538.96,Box,Low
+PRD0122,Utilities Item 3,Utilities,Utilities - Group 2,808.62,Each,High
+PRD0123,Fleet Services Item 3,Fleet Services,Fleet Services - Group 3,2266.71,Each,High
+PRD0124,Fuel Item 3,Fuel,Fuel - Group 1,485.89,Lot,Medium
+PRD0125,Warehouse Equipment Item 3,Warehouse Equipment,Warehouse Equipment - Group 2,6484.01,Each,Low
+PRD0126,Material Handling Item 3,Material Handling,Material Handling - Group 3,3360.57,Month,Low
+PRD0127,Packaging Materials Item 3,Packaging Materials,Packaging Materials - Group 1,176.0,Each,Medium
+PRD0128,Transportation Services Item 3,Transportation Services,Transportation Services - Group 2,1850.04,Lot,Medium
+PRD0129,Courier Services Item 3,Courier Services,Courier Services - Group 3,235.25,Pack,High
+PRD0130,Raw Materials Item 3,Raw Materials,Raw Materials - Group 1,740.21,Pack,Medium
+PRD0131,Electrical Components Item 3,Electrical Components,Electrical Components - Group 2,403.09,Each,Low
+PRD0132,Mechanical Components Item 3,Mechanical Components,Mechanical Components - Group 3,517.49,Lot,High
+PRD0133,Safety Equipment Item 3,Safety Equipment,Safety Equipment - Group 1,141.16,Box,Medium
+PRD0134,Personal Protective Equipment Item 3,Personal Protective Equipment,Personal Protective Equipment - Group 2,87.92,Box,Low
+PRD0135,Laboratory Equipment Item 3,Laboratory Equipment,Laboratory Equipment - Group 3,3385.04,Box,Medium
+PRD0136,Quality Testing Services Item 3,Quality Testing Services,Quality Testing Services - Group 1,1438.11,Pack,Medium
+PRD0137,Maintenance Services Item 3,Maintenance Services,Maintenance Services - Group 2,1440.71,Each,Low
+PRD0138,Construction Services Item 3,Construction Services,Construction Services - Group 3,12231.87,Month,Medium
+PRD0139,Catering Services Item 3,Catering Services,Catering Services - Group 1,547.73,Month,Medium
+PRD0140,Uniforms Item 3,Uniforms,Uniforms - Group 2,89.52,Box,Medium
+PRD0141,Medical Supplies Item 3,Medical Supplies,Medical Supplies - Group 3,475.97,Pack,Medium
+PRD0142,Stationery Item 3,Stationery,Stationery - Group 1,27.63,Hour,Low
+PRD0143,Mobile Devices Item 3,Mobile Devices,Mobile Devices - Group 2,590.53,Box,Low
+PRD0144,Data Storage Item 3,Data Storage,Data Storage - Group 3,960.77,Hour,Medium
+PRD0145,Business Intelligence Item 3,Business Intelligence,Business Intelligence - Group 1,1207.06,Hour,High
+PRD0146,Analytics Services Item 3,Analytics Services,Analytics Services - Group 2,3014.61,Pack,Low
+PRD0147,Sustainability Services Item 3,Sustainability Services,Sustainability Services - Group 3,1611.58,Each,High
+PRD0148,Waste Management Item 3,Waste Management,Waste Management - Group 1,664.98,Each,High
+PRD0149,Leasing Services Item 3,Leasing Services,Leasing Services - Group 2,2949.12,Box,Low
+PRD0150,Temporary Labor Item 3,Temporary Labor,Temporary Labor - Group 3,1316.14,Hour,High
+PRD0151,Computers & Laptops Item 4,Computers & Laptops,Computers & Laptops - Group 1,1534.46,Box,High
+PRD0152,Networking Equipment Item 4,Networking Equipment,Networking Equipment - Group 2,893.62,Each,High
+PRD0153,Software Licenses Item 4,Software Licenses,Software Licenses - Group 3,504.02,Hour,High
+PRD0154,Cloud Services Item 4,Cloud Services,Cloud Services - Group 1,660.69,Hour,Low
+PRD0155,Cybersecurity Tools Item 4,Cybersecurity Tools,Cybersecurity Tools - Group 2,1342.67,Box,Low
+PRD0156,Office Furniture Item 4,Office Furniture,Office Furniture - Group 3,377.8,Each,High
+PRD0157,Office Supplies Item 4,Office Supplies,Office Supplies - Group 1,32.99,Each,Medium
+PRD0158,Printing Services Item 4,Printing Services,Printing Services - Group 2,148.2,Each,Medium
+PRD0159,Telecommunications Item 4,Telecommunications,Telecommunications - Group 3,305.76,Box,Medium
+PRD0160,Professional Services Item 4,Professional Services,Professional Services - Group 1,1028.91,Each,Low
+PRD0161,Consulting Services Item 4,Consulting Services,Consulting Services - Group 2,2046.49,Box,Medium
+PRD0162,Legal Services Item 4,Legal Services,Legal Services - Group 3,1745.33,Lot,Medium
+PRD0163,Marketing Services Item 4,Marketing Services,Marketing Services - Group 1,1498.48,Lot,Low
+PRD0164,Advertising Item 4,Advertising,Advertising - Group 2,2975.89,Each,High
+PRD0165,Travel Services Item 4,Travel Services,Travel Services - Group 3,440.05,Box,Medium
+PRD0166,Training Services Item 4,Training Services,Training Services - Group 1,1035.97,Pack,Low
+PRD0167,Recruitment Services Item 4,Recruitment Services,Recruitment Services - Group 2,3158.95,Each,Low
+PRD0168,Insurance Item 4,Insurance,Insurance - Group 3,2182.14,Lot,Low
+PRD0169,Facilities Management Item 4,Facilities Management,Facilities Management - Group 1,2602.75,Each,Medium
+PRD0170,Cleaning Services Item 4,Cleaning Services,Cleaning Services - Group 2,873.94,Pack,Low
+PRD0171,Security Services Item 4,Security Services,Security Services - Group 3,789.59,Pack,Medium
+PRD0172,Utilities Item 4,Utilities,Utilities - Group 1,1340.53,Each,High
+PRD0173,Fleet Services Item 4,Fleet Services,Fleet Services - Group 2,2039.26,Each,Low
+PRD0174,Fuel Item 4,Fuel,Fuel - Group 3,335.47,Each,High
+PRD0175,Warehouse Equipment Item 4,Warehouse Equipment,Warehouse Equipment - Group 1,8152.76,Each,Low
+PRD0176,Material Handling Item 4,Material Handling,Material Handling - Group 2,1871.92,Hour,Low
+PRD0177,Packaging Materials Item 4,Packaging Materials,Packaging Materials - Group 3,92.22,Each,Low
+PRD0178,Transportation Services Item 4,Transportation Services,Transportation Services - Group 1,1464.99,Box,Medium
+PRD0179,Courier Services Item 4,Courier Services,Courier Services - Group 2,251.77,Hour,Low
+PRD0180,Raw Materials Item 4,Raw Materials,Raw Materials - Group 3,498.19,Month,High
+PRD0181,Electrical Components Item 4,Electrical Components,Electrical Components - Group 1,322.65,Pack,Low
+PRD0182,Mechanical Components Item 4,Mechanical Components,Mechanical Components - Group 2,462.69,Each,Medium
+PRD0183,Safety Equipment Item 4,Safety Equipment,Safety Equipment - Group 3,209.98,Each,Medium
+PRD0184,Personal Protective Equipment Item 4,Personal Protective Equipment,Personal Protective Equipment - Group 1,57.17,Each,High
+PRD0185,Laboratory Equipment Item 4,Laboratory Equipment,Laboratory Equipment - Group 2,3643.04,Each,Medium
+PRD0186,Quality Testing Services Item 4,Quality Testing Services,Quality Testing Services - Group 3,875.97,Pack,Medium
+PRD0187,Maintenance Services Item 4,Maintenance Services,Maintenance Services - Group 1,1667.45,Each,Medium
+PRD0188,Construction Services Item 4,Construction Services,Construction Services - Group 2,8552.72,Each,Low
+PRD0189,Catering Services Item 4,Catering Services,Catering Services - Group 3,590.84,Each,Medium
+PRD0190,Uniforms Item 4,Uniforms,Uniforms - Group 1,67.16,Each,Medium
+PRD0191,Medical Supplies Item 4,Medical Supplies,Medical Supplies - Group 2,288.22,Hour,Low
+PRD0192,Stationery Item 4,Stationery,Stationery - Group 3,22.45,Each,Medium
+PRD0193,Mobile Devices Item 4,Mobile Devices,Mobile Devices - Group 1,741.11,Each,Low
+PRD0194,Data Storage Item 4,Data Storage,Data Storage - Group 2,1102.64,Each,Low
+PRD0195,Business Intelligence Item 4,Business Intelligence,Business Intelligence - Group 3,1970.94,Each,High
+PRD0196,Analytics Services Item 4,Analytics Services,Analytics Services - Group 1,2228.87,Hour,High
+PRD0197,Sustainability Services Item 4,Sustainability Services,Sustainability Services - Group 2,1794.1,Month,Low
+PRD0198,Waste Management Item 4,Waste Management,Waste Management - Group 3,1561.0,Each,Low
+PRD0199,Leasing Services Item 4,Leasing Services,Leasing Services - Group 1,1847.71,Pack,Low
+PRD0200,Temporary Labor Item 4,Temporary Labor,Temporary Labor - Group 2,1194.29,Hour,Low
+PRD0201,Computers & Laptops Item 5,Computers & Laptops,Computers & Laptops - Group 3,732.03,Box,Low
+PRD0202,Networking Equipment Item 5,Networking Equipment,Networking Equipment - Group 1,802.86,Hour,Low
+PRD0203,Software Licenses Item 5,Software Licenses,Software Licenses - Group 2,305.2,Each,Medium
+PRD0204,Cloud Services Item 5,Cloud Services,Cloud Services - Group 3,913.57,Box,Medium
+PRD0205,Cybersecurity Tools Item 5,Cybersecurity Tools,Cybersecurity Tools - Group 1,1046.33,Hour,Low
+PRD0206,Office Furniture Item 5,Office Furniture,Office Furniture - Group 2,642.69,Hour,Medium
+PRD0207,Office Supplies Item 5,Office Supplies,Office Supplies - Group 3,32.76,Each,Low
+PRD0208,Printing Services Item 5,Printing Services,Printing Services - Group 1,91.64,Hour,Low
+PRD0209,Telecommunications Item 5,Telecommunications,Telecommunications - Group 2,585.3,Each,Medium
+PRD0210,Professional Services Item 5,Professional Services,Professional Services - Group 3,2978.16,Lot,High
+PRD0211,Consulting Services Item 5,Consulting Services,Consulting Services - Group 1,2661.8,Month,Medium
+PRD0212,Legal Services Item 5,Legal Services,Legal Services - Group 2,2466.95,Each,Low
+PRD0213,Marketing Services Item 5,Marketing Services,Marketing Services - Group 3,1661.7,Each,Low
+PRD0214,Advertising Item 5,Advertising,Advertising - Group 1,1399.68,Pack,Medium
+PRD0215,Travel Services Item 5,Travel Services,Travel Services - Group 2,652.84,Each,Medium
+PRD0216,Training Services Item 5,Training Services,Training Services - Group 3,712.9,Pack,Medium
+PRD0217,Recruitment Services Item 5,Recruitment Services,Recruitment Services - Group 1,1504.9,Each,Low
+PRD0218,Insurance Item 5,Insurance,Insurance - Group 2,3751.62,Each,Low
+PRD0219,Facilities Management Item 5,Facilities Management,Facilities Management - Group 3,2410.59,Hour,Medium
+PRD0220,Cleaning Services Item 5,Cleaning Services,Cleaning Services - Group 1,611.22,Hour,Low
+PRD0221,Security Services Item 5,Security Services,Security Services - Group 2,916.34,Box,Low
+PRD0222,Utilities Item 5,Utilities,Utilities - Group 3,2333.13,Each,High
+PRD0223,Fleet Services Item 5,Fleet Services,Fleet Services - Group 1,1750.05,Hour,Medium
+PRD0224,Fuel Item 5,Fuel,Fuel - Group 2,208.59,Box,Medium
+PRD0225,Warehouse Equipment Item 5,Warehouse Equipment,Warehouse Equipment - Group 3,5724.98,Pack,High
+PRD0226,Material Handling Item 5,Material Handling,Material Handling - Group 1,1719.24,Month,Medium
+PRD0227,Packaging Materials Item 5,Packaging Materials,Packaging Materials - Group 2,143.59,Each,Low
+PRD0228,Transportation Services Item 5,Transportation Services,Transportation Services - Group 3,1450.52,Lot,Medium
+PRD0229,Courier Services Item 5,Courier Services,Courier Services - Group 1,296.26,Each,High
+PRD0230,Raw Materials Item 5,Raw Materials,Raw Materials - Group 2,338.07,Each,Low
+PRD0231,Electrical Components Item 5,Electrical Components,Electrical Components - Group 3,438.77,Each,Low
+PRD0232,Mechanical Components Item 5,Mechanical Components,Mechanical Components - Group 1,362.15,Hour,Medium
+PRD0233,Safety Equipment Item 5,Safety Equipment,Safety Equipment - Group 2,175.48,Pack,Medium
+PRD0234,Personal Protective Equipment Item 5,Personal Protective Equipment,Personal Protective Equipment - Group 3,60.1,Box,Medium
+PRD0235,Laboratory Equipment Item 5,Laboratory Equipment,Laboratory Equipment - Group 1,3272.26,Each,Low
+PRD0236,Quality Testing Services Item 5,Quality Testing Services,Quality Testing Services - Group 2,1341.17,Each,Medium
+PRD0237,Maintenance Services Item 5,Maintenance Services,Maintenance Services - Group 3,1728.59,Each,Medium
+PRD0238,Construction Services Item 5,Construction Services,Construction Services - Group 1,6440.07,Each,Low
+PRD0239,Catering Services Item 5,Catering Services,Catering Services - Group 2,522.82,Each,Medium
+PRD0240,Uniforms Item 5,Uniforms,Uniforms - Group 3,84.09,Each,Medium
+PRD0241,Medical Supplies Item 5,Medical Supplies,Medical Supplies - Group 1,340.1,Pack,Medium
+PRD0242,Stationery Item 5,Stationery,Stationery - Group 2,47.17,Pack,High
+PRD0243,Mobile Devices Item 5,Mobile Devices,Mobile Devices - Group 3,539.55,Hour,Medium
+PRD0244,Data Storage Item 5,Data Storage,Data Storage - Group 1,706.6,Box,Medium
+PRD0245,Business Intelligence Item 5,Business Intelligence,Business Intelligence - Group 2,1280.31,Each,Medium
+PRD0246,Analytics Services Item 5,Analytics Services,Analytics Services - Group 3,4831.4,Each,Low
+PRD0247,Sustainability Services Item 5,Sustainability Services,Sustainability Services - Group 1,1498.16,Hour,Medium
+PRD0248,Waste Management Item 5,Waste Management,Waste Management - Group 2,1612.37,Pack,Low
+PRD0249,Leasing Services Item 5,Leasing Services,Leasing Services - Group 3,1783.2,Box,Medium
+PRD0250,Temporary Labor Item 5,Temporary Labor,Temporary Labor - Group 1,1807.2,Each,Medium
+PRD0251,Computers & Laptops Item 6,Computers & Laptops,Computers & Laptops - Group 2,606.61,Lot,Medium
+PRD0252,Networking Equipment Item 6,Networking Equipment,Networking Equipment - Group 3,1193.74,Lot,Medium
+PRD0253,Software Licenses Item 6,Software Licenses,Software Licenses - Group 1,652.86,Each,High
+PRD0254,Cloud Services Item 6,Cloud Services,Cloud Services - Group 2,898.01,Box,Low
+PRD0255,Cybersecurity Tools Item 6,Cybersecurity Tools,Cybersecurity Tools - Group 3,654.89,Each,Medium
+PRD0256,Office Furniture Item 6,Office Furniture,Office Furniture - Group 1,431.72,Lot,High
+PRD0257,Office Supplies Item 6,Office Supplies,Office Supplies - Group 2,34.61,Each,Medium
+PRD0258,Printing Services Item 6,Printing Services,Printing Services - Group 3,133.74,Hour,Medium
+PRD0259,Telecommunications Item 6,Telecommunications,Telecommunications - Group 1,342.87,Box,Low
+PRD0260,Professional Services Item 6,Professional Services,Professional Services - Group 2,2355.59,Lot,Medium
+PRD0261,Consulting Services Item 6,Consulting Services,Consulting Services - Group 3,2699.2,Each,Medium
+PRD0262,Legal Services Item 6,Legal Services,Legal Services - Group 1,2635.88,Lot,Low
+PRD0263,Marketing Services Item 6,Marketing Services,Marketing Services - Group 2,1832.2,Pack,Low
+PRD0264,Advertising Item 6,Advertising,Advertising - Group 3,2728.75,Each,Medium
+PRD0265,Travel Services Item 6,Travel Services,Travel Services - Group 1,625.35,Each,Medium
+PRD0266,Training Services Item 6,Training Services,Training Services - Group 2,1469.87,Lot,Low
+PRD0267,Recruitment Services Item 6,Recruitment Services,Recruitment Services - Group 3,2218.92,Each,Medium
+PRD0268,Insurance Item 6,Insurance,Insurance - Group 1,3930.85,Pack,Medium
+PRD0269,Facilities Management Item 6,Facilities Management,Facilities Management - Group 2,2977.56,Each,Low
+PRD0270,Cleaning Services Item 6,Cleaning Services,Cleaning Services - Group 3,699.38,Each,High
+PRD0271,Security Services Item 6,Security Services,Security Services - Group 1,1662.75,Month,Medium
+PRD0272,Utilities Item 6,Utilities,Utilities - Group 2,678.25,Hour,Medium
+PRD0273,Fleet Services Item 6,Fleet Services,Fleet Services - Group 3,2155.01,Each,High
+PRD0274,Fuel Item 6,Fuel,Fuel - Group 1,426.76,Each,High
+PRD0275,Warehouse Equipment Item 6,Warehouse Equipment,Warehouse Equipment - Group 2,7424.89,Pack,High
+PRD0276,Material Handling Item 6,Material Handling,Material Handling - Group 3,2410.98,Each,Medium
+PRD0277,Packaging Materials Item 6,Packaging Materials,Packaging Materials - Group 1,144.18,Box,High
+PRD0278,Transportation Services Item 6,Transportation Services,Transportation Services - Group 2,1864.92,Month,High
+PRD0279,Courier Services Item 6,Courier Services,Courier Services - Group 3,235.79,Lot,Medium
+PRD0280,Raw Materials Item 6,Raw Materials,Raw Materials - Group 1,534.09,Each,Medium
+PRD0281,Electrical Components Item 6,Electrical Components,Electrical Components - Group 2,269.29,Pack,Low
+PRD0282,Mechanical Components Item 6,Mechanical Components,Mechanical Components - Group 3,251.72,Each,Medium
+PRD0283,Safety Equipment Item 6,Safety Equipment,Safety Equipment - Group 1,268.28,Each,High
+PRD0284,Personal Protective Equipment Item 6,Personal Protective Equipment,Personal Protective Equipment - Group 2,134.02,Hour,High
+PRD0285,Laboratory Equipment Item 6,Laboratory Equipment,Laboratory Equipment - Group 3,2735.75,Pack,Medium
+PRD0286,Quality Testing Services Item 6,Quality Testing Services,Quality Testing Services - Group 1,1374.74,Month,Low
+PRD0287,Maintenance Services Item 6,Maintenance Services,Maintenance Services - Group 2,1998.36,Box,Medium
+PRD0288,Construction Services Item 6,Construction Services,Construction Services - Group 3,4374.34,Each,Medium
+PRD0289,Catering Services Item 6,Catering Services,Catering Services - Group 1,388.64,Each,High
+PRD0290,Uniforms Item 6,Uniforms,Uniforms - Group 2,73.99,Lot,High
+PRD0291,Medical Supplies Item 6,Medical Supplies,Medical Supplies - Group 3,295.98,Each,Low
+PRD0292,Stationery Item 6,Stationery,Stationery - Group 1,18.06,Each,Low
+PRD0293,Mobile Devices Item 6,Mobile Devices,Mobile Devices - Group 2,657.55,Lot,Low
+PRD0294,Data Storage Item 6,Data Storage,Data Storage - Group 3,1095.77,Each,Low
+PRD0295,Business Intelligence Item 6,Business Intelligence,Business Intelligence - Group 1,2511.98,Pack,Medium
+PRD0296,Analytics Services Item 6,Analytics Services,Analytics Services - Group 2,2931.62,Each,Low
+PRD0297,Sustainability Services Item 6,Sustainability Services,Sustainability Services - Group 3,1251.55,Hour,Low
+PRD0298,Waste Management Item 6,Waste Management,Waste Management - Group 1,1371.79,Box,Medium
+PRD0299,Leasing Services Item 6,Leasing Services,Leasing Services - Group 2,2208.34,Hour,Medium
+PRD0300,Temporary Labor Item 6,Temporary Labor,Temporary Labor - Group 3,1473.15,Each,Medium

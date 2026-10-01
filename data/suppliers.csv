@@ -1,0 +1,101 @@
+SupplierID,SupplierName,Country,Region,SupplierTier,PaymentTerms,SupplierRating,OnTimeDeliveryProbability,QualityAcceptanceProbability,ActiveSupplier
+SUP0001,Summit Solutions,United States,North America,Strategic,Net 30,4.6,0.838,0.908,Yes
+SUP0002,United Services,China,Asia Pacific,Approved,Net 15,3.8,0.802,0.912,Yes
+SUP0003,North Technologies,United States,North America,Approved,Net 30,3.3,0.713,0.889,Yes
+SUP0004,Summit Group,China,Asia Pacific,Approved,Net 30,3.5,0.67,0.892,Yes
+SUP0005,Sterling Industries,United States,North America,Approved,Net 30,3.5,0.646,0.844,Yes
+SUP0006,Bright Systems,Brazil,Latin America,Approved,Net 15,3.5,0.683,0.875,Yes
+SUP0007,Prime Solutions,United Kingdom,Europe,Preferred,Net 30,4.2,0.818,0.895,Yes
+SUP0008,Apex Services,Netherlands,Europe,Approved,Net 30,3.8,0.808,0.901,Yes
+SUP0009,North Resources,United States,North America,Transactional,Net 45,3.2,0.62,0.843,Yes
+SUP0010,Reliable Solutions,Germany,Europe,Approved,Net 30,2.7,0.593,0.838,No
+SUP0011,Sterling Services,South Korea,Asia Pacific,Transactional,Net 45,3.0,0.667,0.904,Yes
+SUP0012,Sterling Systems,South Africa,Africa,Preferred,Net 60,3.8,0.808,0.869,Yes
+SUP0013,North Logistics,Germany,Europe,Preferred,Net 45,4.3,0.762,0.916,Yes
+SUP0014,Bright Supply,Brazil,Latin America,Approved,Net 30,3.5,0.751,0.918,Yes
+SUP0015,Global Consulting,United States,North America,Preferred,Net 45,4.0,0.735,0.878,Yes
+SUP0016,Blue Networks,Germany,Europe,Preferred,Net 45,4.6,0.759,0.923,Yes
+SUP0017,Secure Partners,United States,North America,Approved,Net 45,3.7,0.738,0.913,Yes
+SUP0018,United Technologies,United States,North America,Transactional,Net 60,2.7,0.639,0.854,Yes
+SUP0019,Green Consulting,South Africa,Africa,Approved,Net 30,3.8,0.73,0.876,Yes
+SUP0020,Precision Industries,China,Asia Pacific,Transactional,Net 30,3.2,0.606,0.831,Yes
+SUP0021,Apex Systems,India,Asia Pacific,Approved,Net 30,3.5,0.816,0.855,Yes
+SUP0022,Summit Partners,United States,North America,Preferred,Net 30,3.6,0.754,0.87,Yes
+SUP0023,Integrated Enterprises,Mexico,North America,Preferred,Net 30,4.1,0.797,0.956,Yes
+SUP0024,United Consulting,United States,North America,Preferred,Net 45,3.7,0.778,0.844,Yes
+SUP0025,Prime Networks,Ghana,Africa,Approved,Net 45,3.6,0.729,0.888,Yes
+SUP0026,Rapid Resources,Mexico,North America,Approved,Net 30,2.9,0.744,0.82,Yes
+SUP0027,Summit Manufacturing,Mexico,North America,Approved,Net 45,4.0,0.849,0.911,Yes
+SUP0028,Dynamic Industries,Japan,Asia Pacific,Approved,Net 30,4.1,0.841,0.899,Yes
+SUP0029,Sterling Supply,India,Asia Pacific,Strategic,Net 45,4.1,0.878,0.92,Yes
+SUP0030,Reliable Manufacturing,United States,North America,Approved,Net 45,4.2,0.699,0.916,Yes
+SUP0031,Green Networks,Germany,Europe,Approved,Net 45,3.0,0.688,0.881,Yes
+SUP0032,Apex Solutions,Canada,North America,Transactional,Net 60,3.2,0.686,0.878,Yes
+SUP0033,North Consulting,Mexico,North America,Approved,Net 45,3.8,0.767,0.925,Yes
+SUP0034,Advanced Industries,United States,North America,Transactional,Net 45,3.0,0.675,0.893,Yes
+SUP0035,North Distribution,United Kingdom,Europe,Approved,Net 30,3.8,0.65,0.893,Yes
+SUP0036,Summit Systems,United States,North America,Transactional,Net 30,3.4,0.745,0.858,Yes
+SUP0037,United Logistics,United States,North America,Transactional,Net 30,3.8,0.666,0.86,Yes
+SUP0038,Integrated Technologies,United States,North America,Approved,Net 30,4.2,0.811,0.942,Yes
+SUP0039,Integrated Partners,United States,North America,Approved,Net 30,4.1,0.733,0.914,No
+SUP0040,Green Group,Brazil,Latin America,Approved,Net 30,3.5,0.697,0.891,Yes
+SUP0041,United Networks,United States,North America,Transactional,Net 30,3.1,0.738,0.874,Yes
+SUP0042,Apex Enterprises,Germany,Europe,Strategic,Net 30,4.5,0.867,0.919,Yes
+SUP0043,Blue Resources,United States,North America,Approved,Net 30,3.6,0.797,0.86,Yes
+SUP0044,Rapid Systems,China,Asia Pacific,Approved,Net 30,4.2,0.814,0.973,Yes
+SUP0045,United Manufacturing,Brazil,Latin America,Transactional,Net 45,3.5,0.687,0.897,No
+SUP0046,Precision Distribution,United States,North America,Preferred,Net 30,4.4,0.738,0.879,Yes
+SUP0047,Prime Services,China,Asia Pacific,Strategic,Net 45,3.8,0.738,0.904,Yes
+SUP0048,Prime Consulting,China,Asia Pacific,Strategic,Net 30,4.7,0.919,0.969,Yes
+SUP0049,Precision Systems,Ghana,Africa,Preferred,Net 30,3.9,0.791,0.935,Yes
+SUP0050,United Industries,Brazil,Latin America,Strategic,Net 30,4.1,0.682,0.884,Yes
+SUP0051,Green Manufacturing,China,Asia Pacific,Approved,Net 45,3.8,0.801,0.909,Yes
+SUP0052,Bright Manufacturing,India,Asia Pacific,Transactional,Net 30,2.7,0.572,0.826,Yes
+SUP0053,Precision Services,China,Asia Pacific,Preferred,Net 30,4.4,0.865,0.921,No
+SUP0054,Evergreen Systems,United States,North America,Approved,Net 45,4.3,0.813,0.921,Yes
+SUP0055,Rapid Technologies,Japan,Asia Pacific,Transactional,Net 60,2.8,0.658,0.892,Yes
+SUP0056,North Networks,India,Asia Pacific,Approved,Net 30,3.1,0.656,0.884,Yes
+SUP0057,Sterling Resources,Mexico,North America,Approved,Net 30,3.4,0.756,0.887,No
+SUP0058,Integrated Services,United States,North America,Approved,Net 30,3.3,0.742,0.878,Yes
+SUP0059,Vertex Resources,Singapore,Asia Pacific,Strategic,Net 30,4.6,0.841,0.958,Yes
+SUP0060,Evergreen Industries,Canada,North America,Transactional,Net 15,3.1,0.673,0.836,Yes
+SUP0061,Prime Distribution,India,Asia Pacific,Approved,Net 30,3.5,0.761,0.837,Yes
+SUP0062,Summit Technologies,Germany,Europe,Preferred,Net 30,3.7,0.711,0.892,Yes
+SUP0063,Blue Consulting,Ghana,Africa,Approved,Net 30,3.7,0.673,0.9,Yes
+SUP0064,Secure Enterprises,China,Asia Pacific,Approved,Net 45,4.1,0.921,0.915,Yes
+SUP0065,Dynamic Enterprises,United Kingdom,Europe,Approved,Net 45,3.5,0.77,0.917,Yes
+SUP0066,United Resources,Germany,Europe,Approved,Net 30,3.3,0.59,0.848,Yes
+SUP0067,Global Group,Canada,North America,Strategic,Net 30,4.2,0.768,0.922,Yes
+SUP0068,Sterling Consulting,United States,North America,Strategic,Net 45,4.2,0.736,0.925,Yes
+SUP0069,Advanced Systems,United States,North America,Preferred,Net 15,3.6,0.756,0.903,Yes
+SUP0070,Blue Logistics,India,Asia Pacific,Preferred,Net 30,4.0,0.829,0.92,Yes
+SUP0071,Global Networks,United States,North America,Approved,Net 45,3.7,0.844,0.901,Yes
+SUP0072,Summit Distribution,United States,North America,Transactional,Net 45,3.9,0.732,0.917,Yes
+SUP0073,Advanced Distribution,United States,North America,Approved,Net 45,3.9,0.782,0.882,Yes
+SUP0074,Pioneer Enterprises,India,Asia Pacific,Preferred,Net 30,4.6,0.807,0.934,Yes
+SUP0075,Green Technologies,United States,North America,Strategic,Net 30,4.9,0.9,0.931,Yes
+SUP0076,Integrated Consulting,United States,North America,Approved,Net 45,2.9,0.708,0.882,Yes
+SUP0077,Pioneer Manufacturing,China,Asia Pacific,Approved,Net 30,4.3,0.819,0.881,Yes
+SUP0078,Global Enterprises,United States,North America,Approved,Net 30,3.4,0.698,0.882,Yes
+SUP0079,Precision Logistics,United States,North America,Preferred,Net 45,3.4,0.72,0.873,Yes
+SUP0080,Global Industries,Japan,Asia Pacific,Approved,Net 45,3.4,0.702,0.912,No
+SUP0081,Integrated Manufacturing,Ghana,Africa,Preferred,Net 30,4.1,0.96,0.925,Yes
+SUP0082,Advanced Services,South Africa,Africa,Approved,Net 30,3.8,0.783,0.903,Yes
+SUP0083,Bright Industries,United States,North America,Strategic,Net 30,4.5,0.783,0.91,Yes
+SUP0084,Apex Networks,United States,North America,Approved,Net 45,2.8,0.645,0.846,Yes
+SUP0085,Evergreen Distribution,Brazil,Latin America,Transactional,Net 15,3.5,0.792,0.869,Yes
+SUP0086,Apex Consulting,China,Asia Pacific,Approved,Net 30,3.6,0.708,0.862,Yes
+SUP0087,Vertex Technologies,Mexico,North America,Approved,Net 30,3.4,0.707,0.844,Yes
+SUP0088,Evergreen Resources,United States,North America,Approved,Net 30,4.1,0.874,0.917,Yes
+SUP0089,Blue Supply,United States,North America,Transactional,Net 30,4.3,0.818,0.922,Yes
+SUP0090,Pioneer Distribution,United States,North America,Transactional,Net 15,3.6,0.684,0.882,Yes
+SUP0091,Reliable Systems,South Africa,Africa,Preferred,Net 45,4.5,0.867,0.847,Yes
+SUP0092,Integrated Logistics,United Kingdom,Europe,Preferred,Net 45,3.7,0.73,0.944,Yes
+SUP0093,Pioneer Logistics,United States,North America,Transactional,Net 30,2.5,0.597,0.821,Yes
+SUP0094,Summit Services,United States,North America,Approved,Net 30,3.3,0.761,0.862,Yes
+SUP0095,North Industries,Ghana,Africa,Preferred,Net 45,4.4,0.768,0.924,Yes
+SUP0096,Precision Solutions,France,Europe,Approved,Net 45,4.5,0.845,0.929,Yes
+SUP0097,Bright Resources,Brazil,Latin America,Approved,Net 45,3.5,0.73,0.889,Yes
+SUP0098,North Enterprises,China,Asia Pacific,Strategic,Net 30,4.2,0.762,0.882,Yes
+SUP0099,North Solutions,United States,North America,Preferred,Net 30,4.2,0.709,0.899,Yes
+SUP0100,Apex Manufacturing,China,Asia Pacific,Preferred,Net 30,4.2,0.788,0.908,Yes
