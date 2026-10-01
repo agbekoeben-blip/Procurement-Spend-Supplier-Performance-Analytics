@@ -4,9 +4,9 @@
 
 This project analyzes procurement spending, supplier performance, contract utilization, and purchase price variance (PPV) using SQL Server and Power BI.
 
-The analysis focuses on identifying where procurement spend is concentrated, evaluating supplier delivery and quality performance, examining the use of contracted versus non-contracted purchasing, and identifying opportunities for improved sourcing and supplier management.
+The analysis focuses on identifying where procurement spend is concentrated, evaluating supplier delivery and quality performance, examining the use of contracted versus non-contracted purchasing, and identifying opportunities to improve sourcing and supplier management decisions.
 
-The project uses a synthetic procurement dataset covering 2022–2025 and demonstrates an end-to-end analytics workflow from SQL-based data validation and analysis to interactive Power BI dashboards.
+The project uses a synthetic procurement dataset covering 2022–2025 and demonstrates an end-to-end analytics workflow from SQL-based data validation and analysis to interactive Power BI dashboards that translate procurement data into actionable business insights.
 
 ## Tools Used
 
@@ -19,7 +19,7 @@ The project uses a synthetic procurement dataset covering 2022–2025 and demons
 
 ## Project Objectives
 
-The objective of this project is to use procurement data to evaluate organizational spending patterns, supplier performance, contract utilization, and pricing performance.
+The objective of this project is to use procurement data to evaluate organizational spending patterns, supplier performance, contract utilization, and pricing performance to support data-driven procurement decision-making.
 
 The analysis was designed to answer the following business questions:
 
