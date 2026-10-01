@@ -32,28 +32,24 @@ The analysis was designed to answer the following business questions:
 
 ## Dataset & Data Model
 
-This project uses a synthetic procurement dataset designed to represent procurement activities across multiple departments, suppliers, products, contracts, purchase orders, invoices, and budgets.
+This project uses a synthetic procurement dataset designed to represent procurement activities across departments, suppliers, products, contracts, purchase orders, invoices, and budgets. The dataset covers procurement activity from 2022 through 2025 and includes 10,000 purchase orders.
 
-The data was loaded into a SQL Server database named `ProcurementAnalytics`.
+The data was loaded into a SQL Server database named `ProcurementAnalytics` and organized into eight primary tables:
 
-### Database Tables
+- **Suppliers** — Supplier master data, including location, supplier tier, payment terms, supplier rating, and performance attributes.
+- **Departments** — Department information, including cost centers, managers, regions, and annual budgets.
+- **Products** — Product and category information, including standard unit prices, units of measure, and product criticality.
+- **Contracts** — Supplier contract information, including contract type, dates, value, negotiated discounts, renewal status, and contract status.
+- **PurchaseOrders** — Purchase order header data, including departments, suppliers, order and delivery dates, procurement methods, PO values, contract status, approval cycle time, and delivery performance.
+- **PurchaseOrderItems** — Line-level purchasing data, including products, quantities, standard and actual prices, contract status, quality status, and purchase price variance (PPV).
+- **Invoices** — Invoice and payment information, including invoice amounts, PO variance, three-way match status, payment status, and payment timing.
+- **Budgets** — Annual departmental budget information, including budget amounts and budget ownership.
 
-The database contains eight tables:
-
-- **Suppliers** — Supplier information, including supplier names and ratings
-- **Departments** — Organizational departments and budget information
-- **Products** — Product and service categories with pricing information
-- **Contracts** — Supplier contract information, contract dates, and contract values
-- **PurchaseOrders** — Purchase order transactions, including suppliers, departments, order values,  and delivery information
-- **PurchaseOrderItems** — Detailed purchase order line items, including quantities, pricing, quality status, contract status, and purchase price variance
-- **Invoices** — Invoice and payment information associated with purchase orders
-- **Budgets** — Department-level budget information by year
-
-The dataset contains **10,000 purchase orders** covering the period **2022–2025**.
+The tables are connected through common identifiers such as `SupplierID`, `DepartmentID`, `ProductID`, and `PONumber`, allowing procurement activity to be analyzed across spend, supplier performance, contract utilization, pricing, invoices, and budgets.
 
 ### Data Model
 
-The Power BI data model connects the procurement transaction tables with supporting dimension tables such as Suppliers, Departments, and Products.
+The Power BI data model connects procurement transaction tables with supporting tables for suppliers, departments, products, contracts, invoices, and budgets.
 
 Key relationships include:
 
@@ -65,7 +61,7 @@ Key relationships include:
 - Suppliers → Contracts
 - Departments → Budgets
 
-The model was structured to support filtering and analysis across procurement spend, suppliers, departments, product categories, contract utilization, delivery performance, quality performance, and PPV.
+These relationships support filtering and analysis across procurement spend, suppliers, departments, product categories, contract utilization, delivery performance, quality performance, and purchase price variance (PPV).
 
 ## SQL Analysis
 
@@ -85,7 +81,7 @@ The SQL analysis included:
 - Measuring contract coverage by procurement category
 - Comparing purchase price variance (PPV) between contracted and non-contracted purchases
 - Identifying high-spend suppliers with potential performance concerns
-- Using joins, aggregations, `CASE` statements, CTEs, conditional calculations, and `GROUP BY` analysis
+- Using joins, aggregations, `CASE` statements, common table expressions (CTEs), conditional calculations, and `GROUP BY`
 
 ### SQL Script
 
@@ -96,32 +92,36 @@ The complete SQL analysis used for this project is available here:
 ## Key Findings
 
 ### 1. Procurement Spend
+
 - Total procurement spend across 2022–2025 was approximately **$1.99 billion** across **10,000 purchase orders**.
 - Annual procurement spend remained relatively stable, ranging from approximately **$488.4 million to $508.9 million**.
 - **Construction Services** was the largest procurement category, accounting for approximately **$334.2 million** in spend.
 - **Logistics** was the highest-spend department at approximately **$91.5 million**.
 
 ### 2. Supplier Performance
+
 - Overall on-time delivery performance was **55.81%**, indicating an opportunity for closer supplier delivery management.
 - **Bright Manufacturing** recorded the lowest on-time delivery rate at **35.85%**.
 - Overall quality acceptance was **89.41%**.
 - **Pioneer Logistics** recorded the lowest quality acceptance rate at **81.05%**.
-- **North Resources** represented approximately **$42.1 million** in spend while recording only **40.86% on-time delivery** and **82.98% quality acceptance**, making it a notable candidate for supplier performance review.
+- **North Resources** represented approximately **$42.1 million** in procurement spend while recording **40.86% on-time delivery** and **82.98% quality acceptance**, making it a notable candidate for supplier performance review.
 
 ### 3. Contract Utilization
+
 - Only **20.34%** of procurement spend was associated with contracted purchases.
-- Approximately **$1.59 billion** was non-contracted spend compared with approximately **$0.41 billion** in contracted spend.
+- Approximately **$1.59 billion** was non-contracted spend, compared with approximately **$0.41 billion** in contracted spend.
 - **Construction Services** had approximately **$258.1 million** in non-contracted spend, the highest among the analyzed categories.
 - **Computers & Laptops** had the lowest contract coverage rate at approximately **5.8%**.
 
 ### 4. Purchase Price Variance
+
 - Contracted purchases recorded an average PPV of **-7.10 percentage points**, compared with **+1.78 percentage points** for non-contracted purchases.
-- Under the PPV convention used in this project, negative PPV represents favorable pricing performance while positive PPV represents unfavorable pricing performance.
-- The results suggest that contracted purchases were associated with more favorable pricing performance in this dataset, although the analysis does not by itself establish that contracting caused the difference.
+- Under the PPV convention used in this project, negative PPV represents favorable pricing performance, while positive PPV represents unfavorable pricing performance.
+- Contracted purchases were associated with more favorable pricing performance in this dataset; however, the analysis does not establish that contracting caused the difference.
 
 ## Power BI Dashboard
 
-The Power BI report consists of four pages designed to provide both executive-level KPIs and detailed procurement analysis.
+The Power BI report consists of four interactive dashboard pages designed to provide both executive-level KPIs and detailed procurement analysis.
 
 ### 1. Executive Overview
 
@@ -159,7 +159,7 @@ Based on the analysis, the following areas may warrant management attention:
 
 4. **Investigate pricing performance** — The more favorable PPV observed among contracted purchases suggests that procurement teams should further investigate whether greater use of negotiated contracts could improve pricing outcomes.
 
-5. **Prioritize high-spend, high-risk suppliers** — Supplier reviews should consider both financial exposure and operational performance so that management attention is focused on suppliers with significant spend and multiple performance concerns.
+5. **Prioritize high-spend suppliers with performance concerns** — Supplier reviews should consider both financial exposure and operational performance so that management attention is focused on suppliers with significant spend and multiple performance concerns.
 
 ## Project Limitations
 
@@ -206,4 +206,4 @@ Procurement-Spend-Supplier-Performance-Analytics/
 - **`sql/`** contains the SQL Server analysis used for data validation, spend analysis, supplier performance analysis, contract utilization, and PPV analysis.
 - **`powerbi/`** contains the Power BI report used to build the interactive dashboard.
 - **`screenshots/`** contains images of the four Power BI dashboard pages for quick viewing on GitHub.
-- **`data/`** is reserved for information about the synthetic dataset used in the project.
+- **`data/`** contains the synthetic CSV datasets used in the project, along with a README describing the dataset and its intended use.
